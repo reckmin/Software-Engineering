@@ -1,0 +1,9 @@
+/client/
+/exceptions/
+/gameData/
+/logback.xml
+/mapData/
+/mapEnums/
+/mapGeneration/
+/moveManager/
+/networkAndConverter/
